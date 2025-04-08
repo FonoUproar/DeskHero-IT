@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IT488_DeskHeroIT", "IT488_DeskHeroIT.csproj", "{FCD71015-574C-4966-AAD4-41578A5F1577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeskHeroLibrary", "..\DeskHeroLibrary\DeskHeroLibrary.csproj", "{913C5038-28F9-488C-8510-E0C8837DEBDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCD71015-574C-4966-AAD4-41578A5F1577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD71015-574C-4966-AAD4-41578A5F1577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD71015-574C-4966-AAD4-41578A5F1577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD71015-574C-4966-AAD4-41578A5F1577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{913C5038-28F9-488C-8510-E0C8837DEBDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913C5038-28F9-488C-8510-E0C8837DEBDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913C5038-28F9-488C-8510-E0C8837DEBDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913C5038-28F9-488C-8510-E0C8837DEBDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4A30207-3B66-4D29-A528-6BEA500C3632}
+	EndGlobalSection
+EndGlobal
