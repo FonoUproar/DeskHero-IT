@@ -1,0 +1,25 @@
+C:\Users\royce\source\repos\IT488_DeskHeroIT\bin\Debug\IT488_DeskHeroIT.exe.config
+C:\Users\royce\source\repos\IT488_DeskHeroIT\bin\Debug\IT488_DeskHeroIT.exe
+C:\Users\royce\source\repos\IT488_DeskHeroIT\bin\Debug\IT488_DeskHeroIT.pdb
+C:\Users\royce\source\repos\IT488_DeskHeroIT\obj\Debug\IT488_DeskHeroIT.csproj.AssemblyReference.cache
+C:\Users\royce\source\repos\IT488_DeskHeroIT\obj\Debug\IT488_DeskHeroIT.Properties.Resources.resources
+C:\Users\royce\source\repos\IT488_DeskHeroIT\obj\Debug\IT488_DeskHeroIT.csproj.GenerateResource.cache
+C:\Users\royce\source\repos\IT488_DeskHeroIT\obj\Debug\IT488_DeskHeroIT.csproj.CoreCompileInputs.cache
+C:\Users\royce\source\repos\IT488_DeskHeroIT\obj\Debug\IT488_DeskHeroIT.exe
+C:\Users\royce\source\repos\IT488_DeskHeroIT\obj\Debug\IT488_DeskHeroIT.pdb
+C:\Users\royce\source\repos\IT488_DeskHeroIT\obj\Debug\IT488_DeskHeroIT.Form2.resources
+C:\Users\royce\source\repos\IT488_DeskHeroIT\obj\Debug\IT488_DeskHeroIT.Form3.resources
+C:\Users\royce\source\repos\IT488_DeskHeroIT\obj\Debug\IT488_DeskHeroIT.Form1.resources
+R:\College classes\IT488\IT488_DeskHeroIT\bin\Debug\IT488_DeskHeroIT.exe.config
+R:\College classes\IT488\IT488_DeskHeroIT\bin\Debug\IT488_DeskHeroIT.exe
+R:\College classes\IT488\IT488_DeskHeroIT\bin\Debug\IT488_DeskHeroIT.pdb
+R:\College classes\IT488\IT488_DeskHeroIT\obj\Debug\IT488_DeskHeroIT.csproj.AssemblyReference.cache
+R:\College classes\IT488\IT488_DeskHeroIT\obj\Debug\IT488_DeskHeroIT.Properties.Resources.resources
+R:\College classes\IT488\IT488_DeskHeroIT\obj\Debug\IT488_DeskHeroIT.csproj.GenerateResource.cache
+R:\College classes\IT488\IT488_DeskHeroIT\obj\Debug\IT488_DeskHeroIT.csproj.CoreCompileInputs.cache
+R:\College classes\IT488\IT488_DeskHeroIT\obj\Debug\IT488_DeskHeroIT.exe
+R:\College classes\IT488\IT488_DeskHeroIT\obj\Debug\IT488_DeskHeroIT.pdb
+R:\College classes\IT488\IT488_DeskHeroIT\obj\Debug\IT488_DeskHeroIT.EditTicketForm.resources
+R:\College classes\IT488\IT488_DeskHeroIT\obj\Debug\IT488_DeskHeroIT.PersonelManagementForm.resources
+R:\College classes\IT488\IT488_DeskHeroIT\obj\Debug\IT488_DeskHeroIT.NewTicketForm.resources
+R:\College classes\IT488\IT488_DeskHeroIT\obj\Debug\IT488_DeskHeroIT.DashboardForm.resources
